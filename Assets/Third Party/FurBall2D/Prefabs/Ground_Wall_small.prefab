@@ -53,7 +53,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10756, guid: 0000000000000000e000000000000000, type: 0}
+  - {fileID: 2100000, guid: 11b391fccdf4a7f82858fa91cb143af6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -94,7 +94,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 118836}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 914904ec7aa095c8fad77a2317bd20af, type: 2}
+  m_Material: {fileID: 6200000, guid: 200dd97fa24ee992a958c48f71d1e011, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
